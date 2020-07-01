@@ -1,7 +1,7 @@
 #!/bin/bash
 
 ## Set the variable below to your Aria password
-ARIA_RPC_SECRET="bhadoo"
+ARIA_RPC_SECRET="b249d9ab3a8b885f788e97f2a67e94ee"
 ## This is the maximum number of download jobs that will be active at a time. Note that this does not affect the number of concurrent *uploads*
 MAX_CONCURRENT_DOWNLOADS=9
 ## The port that RPC will listen on
